@@ -1,4 +1,4 @@
-# EYE-Public-
+# EYE (Public)
 Find the exam results by bruteforcing!
 
 This was initially done in mind by taking in account of creating a web interface using Django with a python script running with the help of mechanise library.
